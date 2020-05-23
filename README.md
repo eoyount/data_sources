@@ -33,3 +33,6 @@ Collection of online data sources
   - Fuel Economy (https://www.epa.gov/compliance-and-fuel-economy-data)
   - Nutrient Pollution (https://www.epa.gov/compliance-and-fuel-economy-data)
   - Water (https://www.epa.gov/waterdata)
+
+### Not really data but handy anyway
+- Peter Norvig's word list (https://norvig.com/ngrams/word.list)
