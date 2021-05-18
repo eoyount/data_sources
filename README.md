@@ -36,3 +36,6 @@ Collection of online data sources
 
 ### Not really data but handy anyway
 - Peter Norvig's word list (https://norvig.com/ngrams/word.list)
+
+### Other online aggregations of datasets
+- All the Datasets You Need to Practice Data Science Skills and Make a Great Portfolio (https://towardsdatascience.com/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-857a348883b5)
